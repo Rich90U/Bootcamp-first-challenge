@@ -4,7 +4,8 @@ This is a simple HTML and CSS code for the Horiseon Social Solution Services web
 
 ## Usage
 
-You can use this code as a template or starting point for your own website. Feel free to customize the content, images, and styles to suit your needs. It can be a great resource for learning HTML and CSS, especially for creating a simple business website.
+You can use this code as a template or starting point for your own website. Feel free to customize the content, images, and styles to suit your needs. It can be a great resource for learning ![Static Badge](https://img.shields.io/badge/HTML-grey) and ![Static Badge](https://img.shields.io/badge/CSS-blue), especially for creating a simple business website.
+
 
 ## Features
 - Navigation links for easy access to different sections.
